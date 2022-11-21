@@ -10,26 +10,26 @@ The murder of George Floyd centered Minneapolis, Minnesota, in conversations on 
 
 DATASETS
 
-- Police_Stop_Data.csv: raw police stop data downloaded from the Minneapolis Open Data portal
+- `Police_Stop_Data.csv`: raw police stop data downloaded from the Minneapolis Open Data portal
 downloaded in Spring 2021. Link to original dataset: https://opendata.minneapolismn.gov/datasets/police-stop-data/explore?showTable=true
 This dataset is processed in 1_GEO_DATA_PREP.R
 
-- HennepinCountyInt2017through2019Counts.gpkg: processed geospatial dataset that provides
+- `HennepinCountyInt2017through2019Counts.gpkg`: processed geospatial dataset that provides
 counts of police-citizen interactions at the Census Tract level from 2017 through 2019. This data is
 created in 1_GEO_DATA_PREP.R and visualized in 2_GEO_RATE_VIZ.R
 
-- MplsCleanedThrough2021.csv: a cleaned version of the raw police stop data that is used for
+- `MplsCleanedThrough2021.csv`: a cleaned version of the raw police stop data that is used for
 regression modeling. This is used in GEE_Full_Analysis.R
 
 ANALYSIS SCRIPTS
 
-- 1_GEO_DATA_PREP.R: R script that intakes and processes the raw police stop data. Provides
+- `1_GEO_DATA_PREP.R`: R script that intakes and processes the raw police stop data. Provides
 tabular counts found in the manuscript.
-- 2_GEO_RATE_VIZ.R: R script that intakes the .gpkg dataset to produce the spatio-temporal visualizations
+- `2_GEO_RATE_VIZ.R`: R script that intakes the .gpkg dataset to produce the spatio-temporal visualizations
 found in the manuscript.
-- 3_TEMPORAL_VIZ.R: R script that intakes MplsCleanedThrough2021.csv to produce the temporal visualization of police stops
+- `3_TEMPORAL_VIZ.R`: R script that intakes MplsCleanedThrough2021.csv to produce the temporal visualization of police stops
 found in the manuscript.
-- GEE_Full_Analysis.R: R script that intakes MplsCleanedThrough2021.csv to produce the regression results found in the manuscript.
+- `4_GEE_Full_Analysis.R`: R script that intakes MplsCleanedThrough2021.csv to produce the regression results found in the manuscript.
 
 # Author team and contact information
 
