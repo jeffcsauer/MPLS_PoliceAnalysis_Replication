@@ -1,4 +1,4 @@
-# Replication materials for 'Characterizing patterns in police stops by race in Minneapolis from 2016 to 2021' 
+# Replication materials for *Characterizing patterns in police stops by race in Minneapolis from 2016 to 2021* by Onookome-Okome et al., 2022
 
 This repository contains all materials needed to replicate the findings presented in 'Characterizing patterns in police stops by race in Minneapolis from 2016 to 2021' published in the peer-reviewed [*Journal of Ethnicity in Criminal Justice* on 15 June 2022](https://www.tandfonline.com/doi/abs/10.1080/15377938.2022.2086192).
 
