@@ -1,6 +1,6 @@
 # Replication materials for *Characterizing patterns in police stops by race in Minneapolis from 2016 to 2021* by Onookome-Okome et al., 2022
 
-This repository contains all materials needed to replicate the findings presented in 'Characterizing patterns in police stops by race in Minneapolis from 2016 to 2021' published in the peer-reviewed [*Journal of Ethnicity in Criminal Justice* on 15 June 2022](https://www.tandfonline.com/doi/abs/10.1080/15377938.2022.2086192).
+This repository contains all materials needed to replicate the findings presented in 'Characterizing patterns in police stops by race in Minneapolis from 2016 to 2021' published in the peer-reviewed [*Journal of Ethnicity in Criminal Justice*](https://www.tandfonline.com/doi/abs/10.1080/15377938.2022.2086192) in June 2022.
 
 # Abstract
 
@@ -34,10 +34,10 @@ found in the manuscript.
 # Author team and contact information
 
 1. Tuviere Onookome-Okome, MSc (tuviere.onookome-okome[at]mail.mcgill.ca)
-2. Jonah Gorondensky, MSc (jonah.gorodensky[at]mail.mcgill.ca )
+2. Jonah Gorondensky, MSc (jonah.gorodensky[at]mail.mcgill.ca)
 3. Eric Rose, PhD (eric.rose2[at]mcgill.ca)
 4. Jeffery Sauer, PhD (jcsauer[at]terpmail.umd.edu)
 5. Kristian Lum, PhD (kristianlum[at]gmail.com)
-6. Erica E.M. Moodie, PhD (erica.moodie[at]mcgill.ca ) 
+6. Erica E.M. Moodie, PhD (erica.moodie[at]mcgill.ca) 
 
 *Last updated: 21 November 2022*
